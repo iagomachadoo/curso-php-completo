@@ -152,3 +152,9 @@
     - Depois, devemos rodar o comando **composer init** para que o arquivo de configuração **composer.json** seja criado. Este arquivo é usado para definir as dependências do seu projeto. Além desse arquivo, o diretrio **vendor** é criado, ele armazena todos os pacotes instalados
 
     - Para adicionar um novo pacote, devemos usar o comando `composer require nomePacote` (cada pacote tem um nome específico que deve ser pesquisado para realizar a instalação). Após a instalação de um novo pacote, o arquivo composer.json é atualizado 
+
+## PDO (PHP Data Objects)
+
+- É uma extensão do PHP que fornece uma interface para acessar bancos de dados relacionais. 
+
+- 
